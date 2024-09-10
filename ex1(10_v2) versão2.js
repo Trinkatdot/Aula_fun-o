@@ -48,3 +48,4 @@ function operacao (tipo, valor1, valor2){
             return "Operação inválida";
     }
 }
+

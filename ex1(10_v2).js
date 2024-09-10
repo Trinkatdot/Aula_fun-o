@@ -8,7 +8,7 @@ do denominador não ser zero.
 5. Potenciação calcularPotencia(base, expoente)
 6. Radiciação calcularRaiz(numero, raiz)
 */
-//FUNÇÃO DAS OPERAÇÕES
+//FUNÇÃO POR OPERAÇÕES
 function soma(valor1, valor2) {
     return `${valor1} + ${valor2} = ${valor1 + valor2}`
 }
