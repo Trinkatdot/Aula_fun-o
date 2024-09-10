@@ -42,10 +42,10 @@ function radiciação(valor1, valor2) {
         operacao = valor2.toString();
     }
     return `A raiz ${operacao} de ${valor1} = ${valor1 ** (1 / valor2)}`
-} 
- 
+}
+
 //FUNÇÃO DO MENU
-function calculadora (){
+function calculadora() {
     let texto_menu = `Qual operação você deseja?:
                     1 - soma
                     2 - subtração
